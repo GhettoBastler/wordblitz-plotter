@@ -1,2 +1,2 @@
 # wordblitz-plotter
-A plotter that play Wordblitz using computer vision 
+A plotter that plays Wordblitz using computer vision 

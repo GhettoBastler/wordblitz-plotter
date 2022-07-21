@@ -56,7 +56,7 @@ It uses instances of the following classes:
 - **Translator**: converts pixel coordinates on an image to a position in millimeters for the plotter.
 - **Plotter**: provides functions to move the plotter around.
 
-These are stored in `vision.py`, `translate.py` and `plotter.py` respectively. `machine.py` create instances of these classes based on the content of `parameters.yaml`.
+These are defined in `vision.py`, `translate.py` and `plotter.py` respectively. `machine.py` create instances of these classes based on the content of `parameters.yaml`.
 
 
 ## Installation
@@ -64,9 +64,9 @@ These are stored in `vision.py`, `translate.py` and `plotter.py` respectively. `
 *To be honest, I don't really expect anyone to replicate this. Still, the details provided here might be of use to anywone wanting to reuse parts of it.*
 
 
-Since this is a headless setup, I used the Raspberry Pi OS Lite. I had to use the 32-bit version over the 64-bit so I could use the legacy camera stack.
+Since this is a headless setup, I used Raspberry Pi OS Lite. I had to choose the 32-bit version over the 64-bit so I could use the legacy camera stack.
 
-Here are the steps to install the program on the Pi :
+Here are the steps to install the program on the Pi:
 
 1. Upgrade the packages:
 ```

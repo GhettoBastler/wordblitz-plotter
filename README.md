@@ -29,7 +29,7 @@ The system is comprised of two main parts :
 The base structure is made of laser-cut MDF. The steel rods where scrapped from some old printers, and the bearings came from an abandonned project at my local makerspace. I had to buy the belt, pulleys and motors. The controller is an Arduino Uno running [a modified version of grbl](https://github.com/cprezzi/grbl-servo).
 
 ![markers](https://user-images.githubusercontent.com/100698182/180183231-4e759b73-79d2-40d7-849f-bee37c68079e.jpg)
-To estimate the position of the work area, 19 [ArUco markers](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html) are taped its sides. Having several markers allows for OpenCV to accurately locate the table even when some of them aren't visible.
+To estimate the position of the work area, 19 [ArUco markers](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html) are taped its sides. Having several markers allows OpenCV to accurately locate the table even when some of them aren't visible.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/100698182/179844348-30c40a00-457b-477e-93ef-7138dd19f02f.jpg" width="800" />

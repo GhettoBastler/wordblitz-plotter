@@ -3,7 +3,7 @@ A robot that automatically plays Wordblitz on a phone.
 
 https://user-images.githubusercontent.com/100698182/179841319-f4e044b0-a468-4c2b-8bd4-b32b3cb4e9cf.mp4
 
-## Description
+## Introduction
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/100698182/180197872-625778df-a367-4542-869f-f60c43ff89ab.jpg" width="500" />
@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/100698182/179841319-f4e044b0-a468-4c2b
 
 ![machine_camera](https://user-images.githubusercontent.com/100698182/180181265-8275f6e8-7f89-4d6e-80dd-a42e131ca751.jpg)
 
-*Yes, I could have made a program that runs on a computer, but where is the fun in that ?*
+*Yes, I could have made a program that plays the game on a computer, but where is the fun in that ?*
 
 
 ## How it works

@@ -39,7 +39,8 @@ The stylus is actually a Q-tip stuck at the end of a pen, wrapped in aluminium f
 
 ### The software
 
-![steps_inline](https://user-images.githubusercontent.com/100698182/180184395-4abc59da-69ac-4cd0-885a-e94133efa223.jpg)
+![steps](https://user-images.githubusercontent.com/100698182/180219002-2f9c574f-99cd-40b9-a1c7-17bc504ed8e7.jpg)
+
 
 In a nutshell, `wordblitz.py` does the following:
 
